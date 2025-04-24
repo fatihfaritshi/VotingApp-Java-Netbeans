@@ -5,7 +5,7 @@
 
 /**
  *
- * @author erik rahman
+ * @author fatihfaritshi
  */
 
 // VotingApp.java

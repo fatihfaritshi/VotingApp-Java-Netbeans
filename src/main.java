@@ -5,7 +5,7 @@
 
 /**
  *
- * @author erik rahman
+ * @author fatihfaritshi
  */
 public class main {
     public static void main(String[] args) {
